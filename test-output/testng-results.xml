@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42986" started-at="2022-09-17T07:28:30Z" finished-at="2022-09-17T07:29:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42986" started-at="2022-09-17T07:28:30Z" finished-at="2022-09-17T07:29:13Z">
+      <class name="org.testing.DataProvide">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:org.testing.DataProvide@1e88b3c]" name="browserLaunch" is-config="true" duration-ms="3092" started-at="2022-09-17T12:58:30Z" finished-at="2022-09-17T12:58:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.testing.DataProvide@1e88b3c]" name="startTime" is-config="true" duration-ms="9704" started-at="2022-09-17T12:58:34Z" finished-at="2022-09-17T12:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc1(java.lang.String, java.lang.String)[pri:-1, instance:org.testing.DataProvide@1e88b3c]" name="tc1" duration-ms="2505" started-at="2022-09-17T12:58:44Z" data-provider="login" finished-at="2022-09-17T12:58:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Prasanth]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Trichy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.testing.DataProvide@1e88b3c]" name="endTime" is-config="true" duration-ms="1" started-at="2022-09-17T12:58:47Z" finished-at="2022-09-17T12:58:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.testing.DataProvide@1e88b3c]" name="startTime" is-config="true" duration-ms="5886" started-at="2022-09-17T12:58:47Z" finished-at="2022-09-17T12:58:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc1(java.lang.String, java.lang.String)[pri:-1, instance:org.testing.DataProvide@1e88b3c]" name="tc1" duration-ms="2733" started-at="2022-09-17T12:58:52Z" data-provider="login" finished-at="2022-09-17T12:58:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dhilip ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Outy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.testing.DataProvide@1e88b3c]" name="endTime" is-config="true" duration-ms="0" started-at="2022-09-17T12:58:55Z" finished-at="2022-09-17T12:58:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.testing.DataProvide@1e88b3c]" name="startTime" is-config="true" duration-ms="6065" started-at="2022-09-17T12:58:55Z" finished-at="2022-09-17T12:59:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc1(java.lang.String, java.lang.String)[pri:-1, instance:org.testing.DataProvide@1e88b3c]" name="tc1" duration-ms="2547" started-at="2022-09-17T12:59:01Z" data-provider="login" finished-at="2022-09-17T12:59:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Arun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mathurai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.testing.DataProvide@1e88b3c]" name="endTime" is-config="true" duration-ms="1" started-at="2022-09-17T12:59:04Z" finished-at="2022-09-17T12:59:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.testing.DataProvide@1e88b3c]" name="startTime" is-config="true" duration-ms="6609" started-at="2022-09-17T12:59:04Z" finished-at="2022-09-17T12:59:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc1(java.lang.String, java.lang.String)[pri:-1, instance:org.testing.DataProvide@1e88b3c]" name="tc1" duration-ms="2499" started-at="2022-09-17T12:59:10Z" data-provider="login" finished-at="2022-09-17T12:59:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mohan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Karour]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.testing.DataProvide@1e88b3c]" name="endTime" is-config="true" duration-ms="4" started-at="2022-09-17T12:59:13Z" finished-at="2022-09-17T12:59:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:org.testing.DataProvide@1e88b3c]" name="browserClose" is-config="true" duration-ms="262" started-at="2022-09-17T12:59:13Z" finished-at="2022-09-17T12:59:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- org.testing.DataProvide -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
